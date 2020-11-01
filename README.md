@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=jayangshu84&color=brightgreenstyle=plastic&label=PROFILE+VIEWS/></p>
 <!--
 **jayangshu84/jayangshu84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
