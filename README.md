@@ -1,6 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Jay!](https://github.com/jayangshu84/)
 
-### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=jayangshu84&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayangshusaha/)
+
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=jayangshu84&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 
 <!--
 **jayangshu84/jayangshu84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
